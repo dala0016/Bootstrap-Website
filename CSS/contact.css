@@ -1,0 +1,19 @@
+*{
+    font-family: 'Playfair Display SC', serif;
+    color: #FFFC3B;
+}
+html,body{
+    background-color: #E82575;
+}
+p{
+    font-family: 'Courgette', cursive;
+}
+h2{
+    padding: 2rem;
+}
+form{
+    padding-top: 2rem;
+}
+footer{
+    padding: 2rem;
+}

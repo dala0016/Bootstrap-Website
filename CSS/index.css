@@ -1,0 +1,16 @@
+*{
+    font-family: 'Playfair Display SC', serif;
+}
+html,body{
+    background-color: #E82575;
+}
+.jumbotron{
+    background-color: #FFFC3B;
+}
+p{
+    font-family: 'Courgette', cursive;
+}
+footer{
+    color: #FFFC3B;
+    padding: 2rem;
+}
